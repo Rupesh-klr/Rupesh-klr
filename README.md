@@ -172,18 +172,29 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 		
 <picture>
-  		<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake-dark.svg" />
+  		<source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="./github-contribution-grid-snake.svg" />
 </picture>
 	</td>
 	</tr>
   </table>
   
 </markdown-accessiblity-table>
+
 </div>
 <img src="./flash-start-end.gif" width="100%">
 
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=flat-square&color=blueviolet" alt="Profile Views" />
+
+</div>
 <!-- ---
 ## 📝 My Notes
 
