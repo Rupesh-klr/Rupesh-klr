@@ -186,10 +186,6 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 <img src="./flash-start-end.gif" width="100%">
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Rupesh-klr&show_icons=true&theme=radical" alt="GitHub Stats" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rupesh-klr&layout=compact&theme=radical" alt="Top Languages" />
-
   <br/>
   
   <img src="https://komarev.com/ghpvc/?username=Rupesh-klr&style=flat-square&color=blueviolet" alt="Profile Views" />
