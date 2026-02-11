@@ -171,10 +171,15 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 		<br>
 	<img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 		
-<picture>
+<!-- <picture>
   		<source media="(prefers-color-scheme: dark)" srcset="./github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="./github-contribution-grid-snake.svg" />
+</picture> -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Rupesh-klr/Rupesh-klr/output/github-contribution-grid-snake.svg">
 </picture>
 	</td>
 	</tr>
@@ -193,8 +198,5 @@ Hi! I'm **Rupesh**, a Full Stack Software Developer with a background in Compute
 </div>
 <!-- ---
 ## 📝 My Notes
-
-- 📒 JavaScript notes and resources: [JavaScript Notes](https://adityasri.in/JavaScriptConcepts/)
-- [Java Notes](https://aditya29.notion.site/Java-interview-Notes-207bc22ab99080f79e7cec9dee3e38ad)
 
 --- -->
